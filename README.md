@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Im Edwin Díaz
 
 <!--
 **Diaz-coding-01/Diaz-coding-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 WakaTime
+### 📊 Estadísticas en tiempo real
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
