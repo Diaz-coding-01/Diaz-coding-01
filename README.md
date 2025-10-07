@@ -19,20 +19,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 05 October 2025
+From: 12 August 2025 - To: 06 October 2025
 
-Total Time: 242 hrs 57 mins
+Total Time: 247 hrs 50 mins
 
-Java              185 hrs 7 mins  ░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓   76.19 %
-JavaScript        19 hrs 4 mins   ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   07.85 %
-HTML              13 hrs 28 mins  ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   05.55 %
-Java Properties   5 hrs 9 mins    ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.12 %
-XML               4 hrs 58 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.05 %
-CSS               4 hrs 13 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.74 %
-SQL               3 hrs 38 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.50 %
-Bash              2 hrs 28 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.02 %
-Properties        2 hrs 21 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   00.97 %
-.env file         1 hr 30 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   00.62 %
+Java              189 hrs 58 mins ░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓   76.64 %
+JavaScript        19 hrs 6 mins   ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   07.71 %
+HTML              13 hrs 28 mins  ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   05.44 %
+Java Properties   5 hrs 9 mins    ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.08 %
+XML               4 hrs 58 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.01 %
+CSS               4 hrs 13 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.71 %
+SQL               3 hrs 38 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.47 %
+Bash              2 hrs 28 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.00 %
+Properties        2 hrs 21 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   00.95 %
+.env file         1 hr 30 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   00.61 %
 ```
 
 <!--END_SECTION:waka-->
