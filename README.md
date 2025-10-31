@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 30 October 2025
+From: 12 August 2025 - To: 31 October 2025
 
-Total Time: 321 hrs 54 mins
+Total Time: 322 hrs 33 mins
 
-Java              228 hrs 20 mins ░░░░░░░░░░░░░░░░░▒▓▓▓▓▓▓▓   70.93 %
-JavaScript        34 hrs 35 mins  ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   10.74 %
-HTML              23 hrs 25 mins  ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   07.28 %
+Java              228 hrs 20 mins ░░░░░░░░░░░░░░░░░▒▓▓▓▓▓▓▓   70.78 %
+JavaScript        34 hrs 36 mins  ░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   10.73 %
+HTML              23 hrs 28 mins  ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   07.28 %
 CSS               10 hrs 57 mins  ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   03.40 %
 XML               7 hrs 16 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.26 %
-Java Properties   5 hrs 31 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.72 %
+Java Properties   5 hrs 31 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.71 %
 SQL               4 hrs 15 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.32 %
 ```
 
