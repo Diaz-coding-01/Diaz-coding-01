@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 11 November 2025
+From: 12 August 2025 - To: 12 November 2025
 
-Total Time: 336 hrs 11 mins
+Total Time: 341 hrs 28 mins
 
-Java              228 hrs 29 mins ░░░░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓   67.95 %
-JavaScript        41 hrs 57 mins  ░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   12.48 %
-HTML              23 hrs 30 mins  ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   06.99 %
-CSS               11 hrs 37 mins  ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   03.46 %
-XML               7 hrs 17 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.17 %
-Java Properties   5 hrs 32 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.65 %
-SQL               5 hrs 30 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.64 %
+Java              228 hrs 29 mins ░░░░░░░░░░░░░░░░▒▓▓▓▓▓▓▓▓   66.90 %
+JavaScript        41 hrs 58 mins  ░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   12.29 %
+HTML              23 hrs 30 mins  ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   06.88 %
+CSS               11 hrs 43 mins  ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   03.43 %
+XML               7 hrs 17 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   02.13 %
+TypeScript        6 hrs 36 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.93 %
+SQL               6 hrs           ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   01.76 %
 ```
 
 <!--END_SECTION:waka-->
